@@ -7,7 +7,11 @@ also uploaded an old server with this script working on it
 
 # Features
 Speedo system
+
 Fuel system
+
 Vehicle ownership system (including a menu for players to manage their owned vehicles)
+
 All vehicles (including non-owned by players) save their current condition in the game (damage, mods, position, etc)
+
 API for other parts of the gamemode to safely interact with the more complex vehicle system
