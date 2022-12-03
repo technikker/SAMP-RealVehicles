@@ -3,6 +3,8 @@ script I wrote years ago for san andreas multiplayer, includes a full personal v
 
 haven't used in years, so I've uploaded all (I hope) of its dependencies as well
 
+also uploaded an old server with this script working on it
+
 # Features
 Speedo system
 Fuel system
