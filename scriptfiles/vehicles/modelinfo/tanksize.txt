@@ -1,0 +1,212 @@
+400, 80;	// Landstalker
+401, 60;	// Bravura
+402, 70;	// Buffalo
+403, 130;	// Linerunner
+404, 60;	// Perrenial
+405, 60;	// Sentinel
+406, 130;	// Dumper
+407, 130;	// Firetruck
+408, 130;	// Trashmaster
+409, 60;	// Stretch
+410, 60;	// Manana
+411, 70;	// Infernus
+412, 60;	// Voodoo
+413, 130;	// Pony
+414, 130;	// Mule
+415, 70;	// Cheetah
+416, 130;	// Ambulance
+417, 200;	// Leviathan
+418, 130;	// Moonbeam
+419, 60;	// Esperanto
+420, 60;	// Taxi
+421, 60;	// Washington
+422, 60;	// Bobcat
+423, 130;	// Mr Whoopee
+424, 80;	// BF Injection
+425, 200;	// Hunter
+426, 60;	// Premier
+427, 130;	// Enforcer
+428, 130;	// Securicar
+429, 70;	// Banshee
+430, 70;	// Predator
+431, 130;	// Bus
+432, 130;	// Rhino
+433, 130;	// Barracks
+434, 60;	// Hotknife
+435, 0;	// Trailer 1
+436, 60;	// Previon
+437, 130;	// Coach
+438, 60;	// Cabbie
+439, 60;	// Stallion
+440, 130;	// Rumpo
+441, 0;	// RC Bandit
+442, 60;	// Romero
+443, 130;	// Packer
+444, 130;	// Monster
+445, 60;	// Admiral
+446, 0;	// Squalo
+447, 200;	// Seasparrow
+448, 25;	// Pizzaboy
+449, 0;	// Tram
+450, 0;	// Trailer 2
+451, 70;	// Turismo
+452, 0;	// Speeder
+453, 0;	// Reefer
+454, 0;	// Tropic
+455, 130;	// Flatbed
+456, 130;	// Yankee
+457, 25;	// Caddy
+458, 60;	// Solair
+459, 130;	// Berkley's RC Van
+460, 200;	// Skimmer
+461, 25;	// PCJ-600
+462, 25;	// Faggio
+463, 0;	// Freeway
+464, 0;	// RC Baron
+465, 0;	// RC Raider
+466, 60;	// Glendale
+467, 60;	// Oceanic
+468, 25;	// Sanchez
+469, 200;	// Sparrow
+470, 130;	// Patriot
+471, 25;	// Quad
+472, 0;	// Coastguard
+473, 0;	// Dinghy
+474, 60;	// Hermes
+475, 60;	// Sabre
+476, 200;	// Rustler
+477, 70;	// ZR-350
+478, 60;	// Walton
+479, 60;	// Regina
+480, 0;	// Comet
+481, 0;	// BMX
+482, 130;	// Burrito
+483, 130;	// Camper
+484, 0;	// Marquis
+485, 0;	// Baggage
+486, 130;	// Dozer
+487, 200;	// Maverick
+488, 200;	// News Chopper
+489, 80;	// Rancher
+490, 60;	// FBI Rancher
+491, 60;	// Virgo
+492, 60;	// Greenwood
+493, 0;	// Jetmax
+494, 70;	// Hotring
+495, 80;	// Sandking
+496, 60;	// Blista Compact
+497, 200;	// Police Maverick
+498, 130;	// Boxville
+499, 130;	// Benson
+500, 60;	// Mesa
+501, 0;	// RC Goblin
+502, 70;	// Hotring Racer A
+503, 70;	// Hotring Racer B
+504, 60;	// Bloodring Banger
+505, 80;	// Rancher
+506, 70;	// Super GT
+507, 60;	// Elegant
+508, 130;	// Journey
+509, 0;	// Bike
+510, 0;	// Mountain Bike
+511, 200;	// Beagle
+512, 200;	// Cropdust
+513, 200;	// Stunt
+514, 130;	// Tanker
+515, 130;	// Roadtrain
+516, 60;	// Nebula
+517, 60;	// Majestic
+518, 60;	// Buccaneer
+519, 200;	// Shamal
+520, 200;	// Hydra
+521, 25;	// FCR-900
+522, 25;	// NRG-500
+523, 25;	// HPV1000
+524, 130;	// Cement Truck
+525, 60;	// Tow Truck
+526, 60;	// Fortune
+527, 60;	// Cadrona
+528, 60;	// FBI Truck
+529, 60;	// Willard
+530, 25;	// Forklift
+531, 0;	// Tractor
+532, 0;	// Combine
+533, 60;	// Feltzer
+534, 60;	// Remington
+535, 60;	// Slamvan
+536, 60;	// Blade
+537, 0;	// Freight
+538, 0;	// Streak
+539, 0;	// Vortex
+540, 60;	// Vincent
+541, 70;	// Bullet
+542, 60;	// Clover
+543, 130;	// Sadler
+544, 0;	// Firetruck LA
+545, 60;	// Hustler
+546, 60;	// Intruder
+547, 60;	// Primo
+548, 200;	// Cargobob
+549, 60;	// Tampa
+550, 0;	// Sunrise
+551, 60;	// Merit
+552, 60;	// Utility
+553, 200;	// Nevada
+554, 60;	// Yosemite
+555, 60;	// Windsor
+556, 130;	// Monster A
+557, 130;	// Monster B
+558, 70;	// Uranus
+559, 70;	// Jester
+560, 70;	// Sultan
+561, 60;	// Stratum
+562, 70;	// Elegy
+563, 200;	// Raindance
+564, 0;	// RC Tiger
+565, 70;	// Flash
+566, 60;	// Tahoma
+567, 60;	// Savanna
+568, 80;	// Bandito
+569, 0;	// Freight Flat
+570, 0;	// Streak Carriage
+571, 25;	// Kart
+572, 0;	// Mower
+573, 130;	// Duneride
+574, 25;	// Sweeper
+575, 60;	// Broadway
+576, 60;	// Tornado
+577, 200;	// AT-400
+578, 130;	// DFT-30
+579, 80;	// Huntley
+580, 60;	// Stafford
+581, 25;	// BF-400
+582, 130;	// Newsvan
+583, 25;	// Tug
+584, 0;	// Trailer 3
+585, 60;	// Emperor
+586, 25;	// Wayfarer
+587, 70;	// Euros
+588, 130;	// Hotdog
+589, 60;	// Club
+590, 0;	// Freight Carriage
+591, 0;	// Trailer 3
+592, 200;	// Andromada
+593, 200;	// Dodo
+594, 0;	// RC Cam
+595, 0;	// Launch
+596, 60;	// LS Police Car
+597, 60;	// SF Police Car
+598, 60;	// LV Police Car
+599, 80;	// Police Ranger
+600, 60;	// Picador
+601, 130;	// S.W.A.T. Van
+602, 70;	// Alpha
+603, 70;	// Phoenix
+604, 60;	// Glendale
+605, 60;	// Sadler
+606, 0;	// Luggage Trailer A
+607, 0;	// Luggage Trailer B
+608, 0;	// Stair Trailer
+609, 130;	// Boxville
+610, 0;	// Farm Plow
+611, 0;	// Utility Trailer

@@ -1,0 +1,22 @@
+; // no greater that 256
+; // factionid, schemeid, modelid, color1, color2;
+
+; // defence defaults
+2, 0, 487, 1,   2   ; // maverick
+2, 0, 511, 1,   2   ; // beagle
+2, 0, 407, 6,   1   ; // firetruck
+2, 0, 416, 6,   1   ; // ambulance
+2, 0, 427, 160, 160 ; // enforcer
+2, 0, 428, 160, 215 ; // securicar
+2, 0, 490, 160, 160 ; // fbi rancher (ranger)
+2, 0, 544, 6,   1   ; // firetruck la
+2, 0, 596, 1,   2   ; // ls police car (Police Cruiser LS)
+2, 0, 597, 1,   2   ; // sf police car(Police Cruiser SF)
+2, 0, 598, 1,   2   ; // lv police car(Police Cruiser LV)
+2, 0, 599, 160, 160 ; // police ranger
+2, 0, 497, 1,   2   ; // police maverick
+2, 0, 563, 1,   2   ; // raindance (blackhawk)
+2, 0, 476, 1,   2   ; // rustler
+
+; // cop
+1, 0, 599, 1, 205 ;
